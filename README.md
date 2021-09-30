@@ -12,4 +12,5 @@ It's a open source tiktok API set which is used collect same type of accounts an
 ## status
 In developement.
 
+## feedback
 please feel free to submit requrests in Issues.
