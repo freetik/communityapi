@@ -8,3 +8,5 @@ It's free open source tiktok API set which is used collect same type of accounts
 * search videos by hastag
 * get user profile, including avatar
 * download videos
+
+more features in planning. please feel free to submit requrests in Issues.
