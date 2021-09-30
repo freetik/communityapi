@@ -9,4 +9,7 @@ It's a open source tiktok API set which is used collect same type of accounts an
 * get user profile, including avatar
 * download videos
 
-more features in planning. please feel free to submit requrests in Issues.
+## status
+In developement.
+
+please feel free to submit requrests in Issues.
